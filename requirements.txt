@@ -1,2 +1,2 @@
-git+https://github.com/facebookresearch/hydra.git@master
-git+https://github.com/facebookresearch/hydra.git@master#subdirectory=plugins/hydra_ray_launcher
+git+https://github.com/facebookresearch/hydra.git@7e7832f72664b40ee04834ac8956e7146a3d37fb
+git+https://github.com/facebookresearch/hydra.git@7e7832f72664b40ee04834ac8956e7146a3d37fb#subdirectory=plugins/hydra_ray_launcher
