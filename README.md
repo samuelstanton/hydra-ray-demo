@@ -65,3 +65,4 @@ python main.py -m hydra/launcher=ray_aws module=type_a,type_b
 
 ## Additional Resources
 - [Hydra documentation](https://hydra.cc/docs/intro)
+- [My blog post on the topic](https://samuelstanton.github.io/blog/deploying-research-code/)
