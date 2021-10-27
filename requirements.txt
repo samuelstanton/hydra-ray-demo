@@ -1,2 +1,6 @@
-git+https://github.com/facebookresearch/hydra.git@7e7832f72664b40ee04834ac8956e7146a3d37fb
-git+https://github.com/facebookresearch/hydra.git@7e7832f72664b40ee04834ac8956e7146a3d37fb#subdirectory=plugins/hydra_ray_launcher
+omegaconf==2.1.0.dev26
+hydra-core==1.1.0.dev6
+ray==1.2.0
+cloudpickle==1.6.0
+pickle5==0.0.11
+hydra-ray-launcher==1.1.0.dev1
